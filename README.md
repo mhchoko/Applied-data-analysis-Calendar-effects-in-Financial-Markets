@@ -27,8 +27,8 @@ The objective of this project is to investigate the calendar effects in the US s
 3. How persistent is the calendar effect across different stock exchanges?
 4. Does global crises like (Dot Com Bubble Burst,The Financial Crisis) make the calendar effects less significant?
 
-## Fata story link
-https://ranaelgahawy.github.io/CalendarEffect/
+## Data story link
+https://melvynhuynh.github.io/Applied-data-analysis-Calendar-effects-in-Financial-Markets/
 
 ## Additional Datasets
 
