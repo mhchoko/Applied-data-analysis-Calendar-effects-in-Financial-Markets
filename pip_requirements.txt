@@ -1,0 +1,7 @@
+datasets==2.18.0
+matplotlib==3.10.0
+numpy==2.3.1
+pyarrow==22.0.0
+jupyterlab==4.4.7
+scipy==1.16.0
+pandas==2.3.3
